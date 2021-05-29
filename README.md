@@ -11,3 +11,5 @@ Matlab and python versions are provided.
             stft_para.window    window length of each sample point(seconds)
             stft_para.fs        original frequency
     output: psd,DE [n*l*k]        n electrodes, l windows, k frequency bands
+    
+    DE:差分熵， PSD功率谱密度
